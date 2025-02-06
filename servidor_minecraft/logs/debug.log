@@ -447,3 +447,9 @@
 [06Feb2025 21:01:48.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Gamerule commandBlockOutput is now set to: false]
 [06Feb2025 21:01:51.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Set own game mode to Creative Mode]
 [06Feb2025 21:02:04.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Gave 1 [Command Block] to AugustoButiDMC]
+[06Feb2025 21:06:07.168] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:06:07.172] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Feb2025 21:07:20.647] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoButiDMC lost connection: Disconnected
+[06Feb2025 21:07:20.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoButiDMC left the game
+[06Feb2025 21:11:07.103] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Feb2025 21:11:07.105] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

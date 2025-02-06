@@ -7,10 +7,10 @@ scoreboard objectives remove speedrunneralive
 execute as @a run advancement revoke @s only end/kill_dragon
 
 #Titles
-title @a[tag=!Speedrunner] title {"text":"Start!","color":"gold"}
-title @a[tag=!Speedrunner] subtitle [{"text":"Hunt ","color":"aqua"},{"selector":"@a[tag=Speedrunner]"}]
-title @a[tag=Speedrunner] title {"text":"Start!","color":"gold"}
-title @a[tag=Speedrunner] subtitle [{"text":"Run!","color":"aqua"}]
+title @a[tag=!Speedrunner] title {"text":"EMPIEZA!","color":"gold"}
+title @a[tag=!Speedrunner] subtitle [{"text":"Asesino ","color":"aqua"},{"selector":"@a[tag=Speedrunner]"}]
+title @a[tag=Speedrunner] title {"text":"EMPIEZA!","color":"gold"}
+title @a[tag=Speedrunner] subtitle [{"text":"corre!","color":"aqua"}]
 tellraw @a [{"text":"Made by ","color":"aqua"},{"text":"AugustoButi","color":"gold","hoverEvent":{"action":"show_text","contents":[{"text":"Click for my YT","color":"white"}]},"clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCi11dmje63rduAh1h2NZbeg/"}}]
 
 #Stuff
