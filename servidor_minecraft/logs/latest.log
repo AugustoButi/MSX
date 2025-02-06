@@ -107,3 +107,22 @@
 [06Feb2025 21:02:04.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Gave 1 [Command Block] to AugustoButiDMC]
 [06Feb2025 21:07:20.647] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: AugustoButiDMC lost connection: Disconnected
 [06Feb2025 21:07:20.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoButiDMC left the game
+[06Feb2025 21:20:03.445] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@150d9bda
+[06Feb2025 21:20:03.448] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: AugustoButiDMC[/127.96.228.254:43195] logged in with entity id 1535 at (-247.49685398253885, 73.0, -9.968870189492447)
+[06Feb2025 21:20:03.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoButiDMC joined the game
+[06Feb2025 21:20:13.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Set own game mode to Survival Mode]
+[06Feb2025 21:20:14.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@22949945
+[06Feb2025 21:20:14.050] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Light7[/127.182.71.53:51643] logged in with entity id 1580 at (-247.5, 72.0, -1.5)
+[06Feb2025 21:20:14.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Light7 joined the game
+[06Feb2025 21:20:31.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Light7> q
+[06Feb2025 21:20:35.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AugustoButiDMC> ya empezamos?
+[06Feb2025 21:20:40.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Removed 2 items from player AugustoButiDMC]
+[06Feb2025 21:20:44.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AugustoButiDMC> ya pucha
+[06Feb2025 21:20:58.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <AugustoButiDMC> 1
+[06Feb2025 21:20:59.197] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: AugustoButiDMC was slain by Light7
+[06Feb2025 21:21:01.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Light7> gg
+[06Feb2025 21:21:04.448] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Light7 lost connection: Disconnected
+[06Feb2025 21:21:04.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Light7 left the game
+[06Feb2025 21:24:54.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Set own game mode to Creative Mode]
+[06Feb2025 21:25:29.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Applied effect Slowness to AugustoButiDMC]
+[06Feb2025 21:25:48.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [AugustoButiDMC: Applied effect Slowness to AugustoButiDMC]
